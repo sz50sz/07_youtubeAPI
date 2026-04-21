@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "aleuHec2243FUh_V5NP7_LBef9w",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "JP",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AVf_Uky4YXTg-7DGrS2xymnnLIw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TPnJYJjo7Sw"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-17T10:22:58Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "東海オンエアのONICHAのCM見た結果、無人島に行くことになりました",
+                "description": "TokaiOnAir @PDSX https://www.youtube.com/watch?v=gJ3XPYo6NWg&t=737s https://www.youtube.com/watch?v=b34lPG0Ej9E ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TPnJYJjo7Sw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TPnJYJjo7Sw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TPnJYJjo7Sw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-17T10:22:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LswS9fHPTgAIzBfKFcCYKkFo92g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XH7kVEsdwIE"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-19T00:30:06Z",
+                "channelId": "UCX1xppLvuj03ubLio8jslyA",
+                "title": "ヒカキンのスーパーマリオギャラクシー実況【クリアまで】",
+                "description": "映画『ザ・スーパーマリオギャラクシー・ムービー』公式サイト https://mario-movie.jp/ ◇チャンネル登録はこちら↓ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XH7kVEsdwIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XH7kVEsdwIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XH7kVEsdwIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinGames",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-19T00:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JTF77XnFeG4x74VnhIQ2FVPAjQg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zlSS17gfIao"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-05T03:00:06Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "【ご報告】ヒカキンの麦茶『ONICHA』4/21(火)新発売【セブン-イレブン】",
+                "description": "ONICHA 公式 SNS アカウント ・X 公式：https://x.com/onicha_jp ・TikTok 公式 ：https://www.tiktok.com/@onicha_jp ・Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zlSS17gfIao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zlSS17gfIao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zlSS17gfIao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-05T03:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W8y63em_9y1kNZtdxU2vv9D-oKk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u7N_HuuNsRE"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-10T11:47:57Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "ONICHAの動画について",
+                "description": "この動画は収益化しておりません https://youtu.be/zlSS17gfIao ▽ONICHA 公式 SNS アカウント ・X 公式：https://x.com/onicha_jp ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u7N_HuuNsRE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u7N_HuuNsRE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u7N_HuuNsRE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-10T11:47:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d0MpX5NTrSVobeHjm9i7ew2MZno",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X2TKX-v7P5U"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-03T08:07:57Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "お騒がせして申し訳ありません",
+                "description": "ヒントの生配信 https://youtube.com/live/pvWV-VS7vWY ▽チャンネル登録はこちら↓ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X2TKX-v7P5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X2TKX-v7P5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X2TKX-v7P5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-03T08:07:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sLalqPgKb5Q7uXyYs5lb88jMqKk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oYr6BdjD1PI"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-20T11:00:06Z",
+                "channelId": "UC0yQ2h4gQXmVUFWZSqlMVOA",
+                "title": "【ドッキリ】HIKAKINさんから貰った ONICHA が「めんつゆ」だった件【雑談】",
+                "description": "やぁやぁ、ONICHAだよ。 https://onicha.jp/ HIKAKINさんから頂いた特別版『ONICHA』を開封するよ。 「高評価とかチャンネル ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oYr6BdjD1PI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oYr6BdjD1PI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oYr6BdjD1PI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ひろゆき, hiroyuki",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-20T11:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5JXVq2eSh2ZySok6kxHOkVO3BDA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CzeKqxJZgVQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-11T10:28:26Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "Nintendo Switch 2",
+                "description": "ヒカキン #hikakin #shortsfeed #shortvideo #switch2 #nitnendoswitch2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CzeKqxJZgVQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CzeKqxJZgVQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CzeKqxJZgVQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-11T10:28:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "So1jvPzhrUCp60nVmtcvjokfoSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JWoVSO7geNI"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-22T05:37:59Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "24時間クレーンゲーム生活で景品100個とれるかチャレンジ！【ヒカキンTV】",
+                "description": "撮影協力；エブリデイとってき屋東京本店 https://everyday-cranegame-world.com/ https://x.com/tottekiya_tokyo ◇チャンネル登録 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JWoVSO7geNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JWoVSO7geNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JWoVSO7geNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-22T05:37:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_MVv-CONH6C6MHBvq4MuDzZZFfc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1WFOXR76lxI"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-18T08:18:28Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "ヒカキンが家族に内緒でしてることがヤバい２",
+                "description": "プロモーション：ヤマキ株式会社 詳しく知りたい方は「ヤマキ レンジで作るだし巻き卵の素」で検索！ #ヒカキン #shorts #vlog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1WFOXR76lxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1WFOXR76lxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1WFOXR76lxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-18T08:18:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t__3AcosjgoWHNvAAgLsW8ekJpU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DqmJCK52U7E"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-28T07:35:57Z",
+                "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
+                "title": "【初店内撮影】日本最大のコストコで「人気ランキングTOP100クイズ」当てた商品全部買うチャレンジ！【COSTCO】",
+                "description": "撮影協力：コストコ幕張倉庫店 https://www.costco.co.jp/store-finder/Makuhari 【HIKAKINスタッフ独自のコストコ人気 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DqmJCK52U7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DqmJCK52U7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DqmJCK52U7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HikakinTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-28T07:35:57Z"
+            }
+        }
+    ]
+}
