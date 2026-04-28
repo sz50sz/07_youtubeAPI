@@ -7,29 +7,62 @@
     <title>YoutubeAPI</title>
     <style>
         body {
+            width: 90%;
+            margin-right: auto;
+            margin-left: auto;
             text-align: center;
             margin-top: 100px;
             background-color: #fffaad;
             color: #535e6f;
+            display: flex;
+            justify-content: center;
+            column-gap: 30px;
+            align-items: center;
         }
 
         ul {
+            background-color: #FFF;
+            border-radius: 15px;
             margin: 30px 0;
             display: flex;
             flex-direction: column;
             row-gap: 10px;
-            padding: 0;
+            padding: 30px;
         }
 
         .btn {
             width: fit-content;
-            margin-right: auto;
-            margin-left: auto;
+            padding: 5px 15px;
+            /* ← liに正しく効く */
             display: grid;
             grid-template-columns: repeat(4, 1fr);
-            justify-content: center;
-            align-items: center;
             column-gap: 20px;
+            background-color: transparent;
+            border: none;
+            white-space: nowrap;
+        }
+
+        .btn:hover,
+        .ten:hover {
+            background-color: transparent;
+            border: none;
+        }
+
+        li.btn span,
+        li.ten span {
+            background-color: #bed6ff;
+            border: 3px solid #fff4fa;
+            border-radius: 30px;
+            padding: 7px 15px;
+            /* ← ここでpaddingを管理 */
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        li.btn span:hover,
+        li.ten span:hover {
+            background-color: #fff4fa;
+            border-color: #bed6ff;
         }
 
         .ten {
@@ -38,14 +71,15 @@
             justify-content: space-between;
             margin-right: auto;
             margin-left: auto;
-            column-gap: 300px;
+            background-color: transparent;
+            border: none;
+
         }
 
         li {
             list-style: none;
             background-color: #bed6ff;
             border: 3px solid #fff4fa;
-            width: 150px;
             margin-right: auto;
             margin-left: auto;
             border-radius: 30px;
@@ -61,7 +95,6 @@
         #doSpeed {
             display: flex;
             justify-content: center;
-            width: 300px;
             column-gap: 10px;
         }
 
@@ -132,16 +165,16 @@
                 </select>
             </li>
 
-            <div class="btn">
-                <li id="doplay">再生</li>
-                <li id="dostop">停止</li>
-                <li id="dopause">一時停止</li>
-                <li id="mute">ミュート</li>
-            </div>
-            <div class="ten">
-                <li id="do10sNext">10秒先へ</li>
-                <li id="do10sPrev">10秒戻る</li>
-            </div>
+            <li class="btn">
+                <span id="doplay">再生</span>
+                <span id="dostop">停止</span>
+                <span id="dopause">一時停止</span>
+                <span id="mute">ミュート</span>
+            </li>
+            <li class="ten">
+                <span id="do10sNext">10秒先へ</span>
+                <span id="do10sPrev">10秒戻る</span>
+            </li>
 
             <li class="speed">
                 <form id="doSpeed">
@@ -168,10 +201,14 @@
                 </form>
             </li>
 
+            <li>
+                <label>ボリューム<input type="range" min="0" max="100" name="volume" id="volume" value="50" />
+                    <span id="volumeNum"></span>
+                </label>
+
+            </li>
+
         </ul>
-        <label>ボリューム<input type="range" min="0" max="100" name="volume" id="volume" value="50" />
-            <span id="volumeNum"></span>
-        </label>
 
     </nav>
 
